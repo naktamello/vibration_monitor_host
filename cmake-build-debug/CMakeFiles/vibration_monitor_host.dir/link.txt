@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vibration_monitor_host.dir/main.cpp.o  -o vibration_monitor_host -lusb-1.0 -lboost_system -lboost_thread -lboost_date_time 

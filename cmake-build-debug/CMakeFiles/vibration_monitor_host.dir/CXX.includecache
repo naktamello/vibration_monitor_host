@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/camel/programs/cpp_projects/vibration_monitor_host/main.cpp
+iostream
+-
+locale
+-
+codecvt
+-
+libusb-1.0/libusb.h
+-
+boost/iostreams/device/file.hpp
+-
+boost/iostreams/stream.hpp
+-
+boost/make_shared.hpp
+-
+boost/format.hpp
+-
+boost/date_time/posix_time/posix_time.hpp
+-
+
