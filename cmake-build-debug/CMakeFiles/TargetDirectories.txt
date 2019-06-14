@@ -1,3 +1,0 @@
-/home/camel/programs/cpp_projects/vibration_monitor_host/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/camel/programs/cpp_projects/vibration_monitor_host/cmake-build-debug/CMakeFiles/vibration_monitor_host.dir
-/home/camel/programs/cpp_projects/vibration_monitor_host/cmake-build-debug/CMakeFiles/edit_cache.dir
